@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//export PATH="/usr/local/bin:...:/home/jeffstahler/flutter/bin:${PATH}"
+//export PATH="/usr/local/bin:...:/home/...flutter/bin:${PATH}"
 //flutter emulators --launch Pixel_3_API_29
 
 void main() {
